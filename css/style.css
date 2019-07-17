@@ -1,0 +1,124 @@
+.navbar-toggler-icon {
+    width: 1em;
+    height: 1em;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #7F7F7F;
+}
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+    color: #7F7F7F;
+}
+.navbar-dark .navbar-nav .active>.nav-link {
+    color: #3297DB;
+}
+button:focus {
+    outline: none;
+}
+.carousel-controls {
+    height: 25px;
+    background: rgba(0,0,0,.5)!important;
+    width: 30px;
+}
+ol.carousel-indicators {
+    margin-bottom: 0px;
+}
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+.carousel-indicators .active {
+    background-color: #3297DB;
+}
+.carousel-control-next , .carousel-control-prev {
+    width: 7%;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    width: 15px;
+    height: 15px;
+}
+.bg-primary {
+    background: #F2973B !important;
+}
+.bg-secondary {
+    background: #7F7F7F !important;
+}
+button.bg-secondary:focus, button.bg-secondary:hover {
+    background: #7F7F7F !important;
+}
+.text-primary {
+    color: #F2973B !important;
+}
+.flex-1 {
+    flex: 1;
+}
+.card h1 {
+    font-size: 2rem;
+}
+.card-body {
+    padding: .2rem;
+}
+.card-body ul {
+    font-size: 0.7rem;
+}
+.card-body ul li {
+    padding: .25rem !important;
+}
+.card-body button {
+    font-size: 0.7rem;
+    line-height: 1;
+}
+.card-title {
+    background: #F9F9F9;
+}
+.card-title small {
+    font-size: 60%;
+}
+.card-header {
+    padding: .75rem .25rem;
+}
+.card-header h5 {
+    font-size: 1.1rem;
+}
+.modal-header img {
+    margin: 0 auto;
+}
+.modal-footer {
+    justify-content: center;
+    border-top: none;
+}
+.modal-footer button {
+    width: 120px;
+}
+.footer {
+    background: #F9F9F9;
+}
+.footer-copyright {
+    background: #EAEAEA;
+    font-size: .6rem;
+}
+.slick-slide img {
+    margin: 0 auto;
+}
+.slick-next:before, .slick-prev:before {
+    color: #3297DB;
+}
+.slick-dots li button:before {
+    font-size: 10px;
+}
+.slick-dots li.slick-active button:before {
+    color: #3297DB;
+}
+.slick-dots li {
+    margin: 0px;
+}
+.slick-next {
+    right: -6px;
+}
+.slick-prev {
+    left: -6px;
+}
+.slick-prev, .slick-next {
+    background: #F9F9F9;
+    z-index: 1;
+}
